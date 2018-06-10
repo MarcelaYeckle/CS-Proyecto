@@ -1,1 +1,52 @@
+def Lmodel(a):
+
+    if div4(a)=0:
+        Respuesta=str(False)
+    if div4(a)=1:
+        if div100(a)=1:
+            if div400(a)=0
+                Respuesta=str(False)
+    if div400(a)=0:
+        Respuesta=str(False)
+
+
+
+
+
+    if div4(a)=1:
+        if div100(a)=1:
+            if
+
+            Respuesta=str(True)
+
+    return(Respuesta)
+
+def div4(b):
+    if b%4==0:
+        x=1
+    else
+        x=0
+    return(x)
+
+def div100(c):
+    if c%100==0:
+        y=1
+    else
+        y=0
+    return(y)
+
+def div400(d):
+    if d%400==0:
+        z=1
+    else
+        z=0
+    return(z)
+
+
+
+
+
+#programa principal
+año=int(input())
+print(Lmodel(año))
 
